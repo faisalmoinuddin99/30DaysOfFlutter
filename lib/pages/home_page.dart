@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Center(
-          child: Container(
+          child:  Container(
               child: Text("Welcome to $days days flutter bootcamp by ${name}")),
         ),
       ),
