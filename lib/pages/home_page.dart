@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: Center(
           child:  Container(
-              child: Text("Welcome to $days days flutter bootcamp by ${name}")),
+              child: Text(context.runtimeType.toString())),
         ),
       ),
       drawer: const MyDrawer(),

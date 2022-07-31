@@ -6,8 +6,7 @@ class MyDrawer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final imageURL =
-        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg";
+    final imageURL = "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg";
     return Drawer(
       child: Container(
         color: Colors.deepPurple,
@@ -23,6 +22,7 @@ class MyDrawer extends StatelessWidget {
                 accountEmail: const Text("faisal25march99@gmail.com"),
                 // currentAccountPicture: Image.network(imageURL), normal
                 currentAccountPicture: CircleAvatar(
+                  radius: 2.0,
                   backgroundImage: NetworkImage(imageURL),
                 ),
               ),
