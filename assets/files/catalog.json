@@ -19,28 +19,28 @@
         "desc":"Apple Macbook air with apple silicon",
         "price":1099,
         "color":"#e0bfae",
-        "image":"https://media.wired.com/photos/5fb2cc575c9914713ead03de/master/pass/Gear-Apple-MacBook-Air-top-down-SOURCE-Apple.jpg"
+        "image":"https://m.media-amazon.com/images/I/71vFKBpKakL._SL1500_.jpg"
     },{
         "id":4,
         "name":"M1 Macbook Pro",
         "desc":"Apple Macbook pro with apple silicon",
         "price":2099,
         "color":"#3a3d34",
-        "image":"https://helios-i.mashable.com/imagery/reviews/01VF7MfWsdzSTpxBsup7lCb/hero-image.fill.size_1248x702.v1623391656.jpg"
+        "image":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1634724212/Croma%20Assets/Computers%20Peripherals/Laptop/Images/245228_z1ufbg.png/mxw_2048,f_auto "
     },{
         "id":5,
         "name":"Playsatation 5",
         "desc":"Sony Playstation 5th genration",
         "price":500,
         "color":"#544ee4",
-        "image":"https://media.wired.com/photos/629133e5e9a46d033b3380c7/master/pass/Finding-a-PlayStation-5-Is-About-to-Get-Easier-Gear-shutterstock_1855958302.jpg"
+        "image":"https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$"
     },{
         "id":6,
         "name":"Airpods pro",
         "desc":"Apple Airpods Pro 1th generation",
         "price":200,
         "color":"#e3e4e9",
-        "image":"https://www.yankodesign.com/images/design_news/2022/05/apple-airpods-pro-2022-will-lose-the-stems-come-in-peppy-color-options/Apple-AirPods-Pro-2-concept-5.jpg"
+        "image":"https://www.mytrendyphone.eu/images/Original-Apple-AirPods-Pro-with-ANC-MWP22ZM-A-White-0190199247000-30102019-01-p.jpg"
     },{
         "id":7,
         "name":"iPhone 12 pro",
@@ -61,7 +61,7 @@
         "desc":"Samsung Galaxy S21 Ultra 2021 edition",
         "price":1299,
         "color":"#1c1c1c",
-        "image":"https://cdn.pocket-lint.com/r/s/970x/assets/images/155378-phones-review-hands-on-samsung-galaxy-s21-ultra-image1-luae09ici4.JPG"
+        "image":"https://cdn.dxomark.com/wp-content/uploads/medias/post-74840/samsunggalaxys21ultra5g.jpg"
     },{
         "id":10,
         "name":"iMac mini",
