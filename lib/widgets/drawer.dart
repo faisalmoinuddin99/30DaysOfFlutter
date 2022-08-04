@@ -22,7 +22,7 @@ class MyDrawer extends StatelessWidget {
                 accountEmail: const Text("faisal25march99@gmail.com"),
                 // currentAccountPicture: Image.network(imageURL), normal
                 currentAccountPicture: CircleAvatar(
-                  radius: 2.0,
+
                   backgroundImage: NetworkImage(imageURL),
                 ),
               ),
